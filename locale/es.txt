@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_06B0F178_15C7_E45B_41A4_33607FC5E00F.label = Schüepwis 28b
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Schüepwis 28b
